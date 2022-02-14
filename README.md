@@ -1,2 +1,1 @@
-# GHOAST_BROS
-juego_oscar
+# Zombie-Shooter-stage-1
